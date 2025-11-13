@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice"
+    },
+    {
+      "id": "2",
+      "name": "Bob"
+    },
+    {
+      "id": "3",
+      "name": "Charlie"
+    }
+  ],
+  "messages": [
+    {
+      "id": "e6a40469-fbfd-43a9-9588-cddf1daaa835",
+      "timestamp": 1762834321158,
+      "sender": "Alice",
+      "receiver": "Bob",
+      "text": "11112",
+      "time": "12:12",
+      "windowId": "16e6a080-0348-4909-8bab-ecb17fcec568"
+    },
+    {
+      "id": "ad17bf87-4dd6-4b1e-ad8b-8ab45dbeb3e9",
+      "timestamp": 1762834353657,
+      "sender": "Alice",
+      "receiver": "Bob",
+      "text": "1",
+      "time": "12:12",
+      "windowId": "94b7d9c8-269a-437a-b9ee-7c8611674bf7"
+    }
+  ]
+}
